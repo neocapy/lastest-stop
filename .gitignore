@@ -1,0 +1,7 @@
+build/
+
+external/
+
+.vscode/
+
+captures/*.wav
